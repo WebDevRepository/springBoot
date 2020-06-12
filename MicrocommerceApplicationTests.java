@@ -8,6 +8,9 @@ class MicrocommerceApplicationTests {
 
 	@Test
 	void contextLoads() {
+		Product P = new Product();
 	}
-
+// @Test
+//	void contextLoads() {
+//	}
 }
